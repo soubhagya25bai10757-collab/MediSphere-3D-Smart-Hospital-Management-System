@@ -1,1 +1,18 @@
-
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MediSphere 3D – Smart Hospital Management System</title>
+    <meta name="description" content="Futuristic 3D Smart Hospital Management System with command-center architecture, interactive 3D hospital campus, patient records, emergency priority queues, laboratory workflows, and Java multithreaded operations monitor." />
+    <meta property="og:title" content="MediSphere 3D – Smart Hospital Management System" />
+    <meta property="og:description" content="Futuristic 3D Smart Hospital Management System with command-center architecture, interactive 3D hospital campus, patient records, emergency priority queues, laboratory workflows, and Java multithreaded operations monitor." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script type="module" crossorigin src="/assets/index-BfVUVadB.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CunkJJEp.css">
+  </head>
+  <body class="bg-slate-950 text-slate-100 min-h-screen" style="background-color: #020617; color: #f8fafc;">
+    <div id="root" class="min-h-screen bg-slate-950 text-slate-100"></div>
+  </body>
+</html>
