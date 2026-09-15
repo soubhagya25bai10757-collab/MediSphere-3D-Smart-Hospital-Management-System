@@ -126,11 +126,20 @@ java -cp bin Main
 
 Verify the implemented Java functionality, including object creation, doctor inheritance, method overriding, ArrayList operations, appointment processing, and exception handling.
 
+MAIN PAGE
 <img width="1895" height="1078" alt="Screenshot 2026-09-11 232932" src="https://github.com/user-attachments/assets/36eb8d51-ec07-41ff-8c8b-de49fb374d41" />
 <img width="1901" height="1078" alt="Screenshot 2026-09-11 232941" src="https://github.com/user-attachments/assets/ed630464-8dc4-47a5-8dea-d3ea81c25cd6" />
+
+DASHBOARD
 <img width="1896" height="1078" alt="Screenshot 2026-09-11 233016" src="https://github.com/user-attachments/assets/334696f3-7c78-4735-9702-79b615a93f11" />
+
+EMERGENCY COMMAND
 <img width="1912" height="1078" alt="Screenshot 2026-09-11 233111" src="https://github.com/user-attachments/assets/46d2c2ae-b0ca-46a6-979e-24f902dfc6d0" />
+
+HOSPITAL OPERATIONS 
 <img width="1897" height="1078" alt="Screenshot 2026-09-11 233120" src="https://github.com/user-attachments/assets/09f03dbc-8fc2-4b79-8635-ea3e11419bea" />
+
+APPOINTMENT SCHEDULING
 <img width="1902" height="1078" alt="Screenshot 2026-09-11 233103" src="https://github.com/user-attachments/assets/40d93f20-c014-4274-88f6-7975a3a32ecd" />
 
 
