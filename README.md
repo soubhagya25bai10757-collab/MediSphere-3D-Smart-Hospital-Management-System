@@ -1,51 +1,137 @@
-🏥 Medi Sphere 3D
- Smart Hospital Management System
+MediSphere 3D — Smart Hospital Management System
+1. Project Overview
 
-Medi Sphere 3D is a web-based hospital management system developed to
-bring important hospital activities together in one place. The project
-provides a simple way to explore and manage information related to
-patients, doctors, appointments, emergency cases, hospital operations,
-and analytics.
+MediSphere 3D is a smart hospital management system developed as a college project for the Programming in Java course at VIT Bhopal University.
 
-The project combines a modern 3D-inspired healthcare interface with a
-Java implementation of core Object-Oriented Programming concepts from
-the Programming in Java course.
+The project provides a centralized platform for managing common hospital activities such as patients, doctors, appointments, emergency cases, hospital operations, and analytics.
 
-🌐 Live Demo
+The project also includes a Java implementation using hospital-related examples to demonstrate programming concepts and provide a practical application of Java.
 
-**Medi Sphere 3D:**  
+Live Project:
+
 https://medisphere-3d-smart-hospital-managementsystem.ai.studio/
 
-✨ Key Features
+2. Features
+Hospital dashboard
+Patient management
+Patient registration and profiles
+Doctor directory
+Multiple doctor specializations
+Doctor profiles and availability
+Appointment management
+Consultation booking
+Emergency Dashboard
+Priority Queue
+Active Cases
+Available Emergency Doctors
+Emergency History
+Hospital operations
+Hospital analytics
+Responsive user interface
+Dark futuristic medical interface
+3D-inspired visual design
+Collapsible navigation drawer
+3. Technologies / Tools Used
+Java
 
-- **Hospital Dashboard** — Overview of important hospital activities
-- **Patient Management** — Patient information and records
-- **Doctor Management** — Doctor directory with multiple specialties
-- **Appointment Management** — Organizing doctor consultations
-- **Emergency Command** — Emergency status, priority queue, active
-  cases, available doctors, and history
-- **Hospital Operations** — Overview of hospital resources
-- **Analytics** — Hospital-related statistics and system information
-- **Responsive Interface** — Designed for comfortable navigation
-- **3D & Glass morphism UI** — Futuristic medical-inspired design
-- **Collapsible Navigation** — Expand or collapse the main navigation
-  drawer
+Used for implementing the hospital-related classes, object-oriented programming concepts, collections, and exception handling.
 
- ☕ Java Implementation
+HTML
 
-The project includes a separate Java module developed to demonstrate
-concepts covered in the Programming in Java syllabus.
+Used for creating the structure of the web interface.
 
-The implementation is based on common hospital entities such as
-patients, doctors, appointments, and emergency cases.
+CSS
 
- Java Concepts Used
+Used for styling, responsive layouts, animations, and the glassmorphism-based interface.
 
-- Classes and Objects
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Exception Handling
-- Collections using `Array List`
-- Constructors and Methods
-- User-defined Packages
+JavaScript
+
+Used for navigation, dynamic content, and interactive functionality.
+
+Google AI Studio
+
+Used during the development of the web application.
+
+GitHub
+
+Used for source-code management and project submission.
+
+4. Steps to Install and Run the Project
+Step 1: Clone the Repository
+
+Clone the public GitHub repository:
+
+git clone YOUR_GITHUB_REPOSITORY_URL
+
+Replace YOUR_GITHUB_REPOSITORY_URL with the actual GitHub repository URL.
+
+Step 2: Open the Project
+
+Open the downloaded project folder using a suitable code editor such as VS Code or IntelliJ IDEA.
+
+Step 3: Run the Java Module
+
+Navigate to the Java source directory:
+
+cd java
+
+Compile the Java files:
+
+javac -d bin src/model/*.java src/exception/*.java src/service/*.java src/Main.java
+
+Run the Java program:
+
+java -cp bin Main
+Step 4: Run the Web Application
+
+Open the frontend project using the required development environment and start the application according to its project configuration.
+
+The deployed website can also be accessed at:
+
+https://medisphere-3d-smart-hospital-managementsystem.ai.studio/
+
+5. Instructions for Testing
+Web Application Testing
+
+Open the application and test the following:
+
+Landing Page
+Hospital Dashboard
+Patient Management
+Doctor Management
+Appointment Management
+Emergency Dashboard
+Priority Queue
+Active Cases
+Available Emergency Doctors
+Emergency History
+Hospital Operations
+Analytics
+
+Check the navigation, buttons, forms, and interactive components to verify that they work correctly.
+
+Java Testing
+
+Compile the Java implementation:
+
+javac -d bin src/model/*.java src/exception/*.java src/service/*.java src/Main.java
+
+Run:
+
+java -cp bin Main
+
+Verify the implemented Java functionality, including object creation, doctor inheritance, method overriding, ArrayList operations, appointment processing, and exception handling.
+
+<img width="1895" height="1078" alt="Screenshot 2026-09-11 232932" src="https://github.com/user-attachments/assets/36eb8d51-ec07-41ff-8c8b-de49fb374d41" />
+<img width="1901" height="1078" alt="Screenshot 2026-09-11 232941" src="https://github.com/user-attachments/assets/ed630464-8dc4-47a5-8dea-d3ea81c25cd6" />
+<img width="1896" height="1078" alt="Screenshot 2026-09-11 233016" src="https://github.com/user-attachments/assets/334696f3-7c78-4735-9702-79b615a93f11" />
+<img width="1912" height="1078" alt="Screenshot 2026-09-11 233111" src="https://github.com/user-attachments/assets/46d2c2ae-b0ca-46a6-979e-24f902dfc6d0" />
+![Uploading Screenshot 2026-09-11 233824.png…]()
+
+
+
+
+
+
+
+
