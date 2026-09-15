@@ -1,5 +1,5 @@
 MediSphere 3D — Smart Hospital Management System
-1. Project Overview
+**1. Project Overview**
 
 MediSphere 3D is a smart hospital management system developed as a college project for the Programming in Java course at VIT Bhopal University.
 
@@ -11,7 +11,7 @@ Live Project:
 
 https://medisphere-3d-smart-hospital-managementsystem.ai.studio/
 
-2. Features
+**2. Features**
 Hospital dashboard
 Patient management
 Patient registration and profiles
@@ -32,7 +32,7 @@ Dark futuristic medical interface
 3D-inspired visual design
 Collapsible navigation drawer
 
-3. Technologies / Tools Used
+**3. Technologies / Tools Used**
 Java
 
 Used for implementing the hospital-related classes, object-oriented programming concepts, collections, and exception handling.
@@ -57,7 +57,7 @@ GitHub
 
 Used for source-code management and project submission.
 
-4. Steps to Install and Run the Project
+**4. Steps to Install and Run the Project**
 Step 1: Clone the Repository
 
 Clone the public GitHub repository:
@@ -91,7 +91,7 @@ The deployed website can also be accessed at:
 
 https://medisphere-3d-smart-hospital-managementsystem.ai.studio/
 
-5. Instructions for Testing
+**5. Instructions for Testing**
 Web Application Testing
 
 Open the application and test the following:
