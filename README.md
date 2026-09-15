@@ -12,6 +12,7 @@ Live Project:
 https://medisphere-3d-smart-hospital-managementsystem.ai.studio/
 
 **2. Features**
+
 Hospital dashboard
 Patient management
 Patient registration and profiles
@@ -33,6 +34,7 @@ Dark futuristic medical interface
 Collapsible navigation drawer
 
 **3. Technologies / Tools Used**
+
 Java
 
 Used for implementing the hospital-related classes, object-oriented programming concepts, collections, and exception handling.
@@ -58,6 +60,7 @@ GitHub
 Used for source-code management and project submission.
 
 **4. Steps to Install and Run the Project**
+
 Step 1: Clone the Repository
 
 Clone the public GitHub repository:
