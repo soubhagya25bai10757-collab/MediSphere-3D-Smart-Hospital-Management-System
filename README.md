@@ -126,7 +126,7 @@ Verify the implemented Java functionality, including object creation, doctor inh
 <img width="1901" height="1078" alt="Screenshot 2026-09-11 232941" src="https://github.com/user-attachments/assets/ed630464-8dc4-47a5-8dea-d3ea81c25cd6" />
 <img width="1896" height="1078" alt="Screenshot 2026-09-11 233016" src="https://github.com/user-attachments/assets/334696f3-7c78-4735-9702-79b615a93f11" />
 <img width="1912" height="1078" alt="Screenshot 2026-09-11 233111" src="https://github.com/user-attachments/assets/46d2c2ae-b0ca-46a6-979e-24f902dfc6d0" />
-![Uploading Screenshot 2026-09-11 233824.png…]()
+
 
 
 
